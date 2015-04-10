@@ -1,0 +1,5 @@
+"listing": {
+	"owner": {
+		desc: "Reference of the user that owns the listing"
+	}
+}

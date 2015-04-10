@@ -1,0 +1,12 @@
+"user": {
+	"id": {
+		desc: "App identifier of the user"
+	},
+	"name": {},
+	"email": {},
+	"avatar": {},
+
+	"contact": {
+		"phone": {}
+	}
+}

@@ -1,0 +1,9 @@
+"offer" : {
+	"id": {},
+	"listing": {
+		desc: Reference to listing resource
+	},
+	"status": {
+		enum: ["active", "inquired", "awaiting_acceptance", "accepted"]
+	}
+}

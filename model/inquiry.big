@@ -1,0 +1,12 @@
+"inquiry": {
+	"id": {
+		desc: "App identifier of the inquiry"
+	},
+	"consumer": {
+		$ref: "user/id",
+		desc: "User that created inquiry"
+	}
+	"offer": {
+		desc: "Reference to offer resource"
+	}
+}
